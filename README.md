@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Chamath 👋
 
-<!--
-**chamathjayasekara/Chamathjayasekara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about software development and solving challenging problems. I enjoy exploring new technologies and building projects that make learning fun and practical.
 
-Here are some ideas to get you started:
+## 🔭 Currently working on
+- Web Development projects using HTML, CSS, JavaScript
+- Learning Python & Algorithms
+- Small open-source contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning
+- Full Stack Development
+- Data Structures & Algorithms
+- Cloud technologies
+
+## 💬 Ask me about
+- Programming (Python, Java, C++)
+- Web Development
+- Software best practices
+
+## 📫 How to reach me
+- LinkedIn: [Your LinkedIn Link]
+- Email: [Your Email Address]
