@@ -1,4 +1,5 @@
 # Hi, I'm Chamath 👋
+**Pronouns:** He/Him
 
 I'm a Computer Science student passionate about software development and solving challenging problems. I enjoy exploring new technologies and building projects that make learning fun and practical.
 
@@ -18,5 +19,5 @@ I'm a Computer Science student passionate about software development and solving
 - Software best practices
 
 ## 📫 How to reach me
-- LinkedIn: [Your LinkedIn Link]
-- Email: [Your Email Address]
+- LinkedIn: [Chamath LinkedIn](https://www.linkedin.com/in/chamath-jayasekara-a5241a324/)
+- Email: [chamathgayanasara1234@gmail.com](mailto:chamathgayanasara1234@gmail.com)
