@@ -1,5 +1,4 @@
 # Hi, I'm Chamath 👋
-**Pronouns:** He/Him
 
 I'm a Computer Science student passionate about software development and solving challenging problems. I enjoy exploring new technologies and building projects that make learning fun and practical.
 
