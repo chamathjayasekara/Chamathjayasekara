@@ -9,7 +9,7 @@
 
 ## 👨‍🎓 About Me
 🎓 BSc (Hons) Computer Science Undergraduate at NSBM  
-💻 Passionate about Software Development  
+💻 Passionate about Software Development joy building projects that solve real problems  
 🌱 Currently learning and improving my programming & database skills   
 
 ---
@@ -59,6 +59,8 @@
 <br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Chamathjayasekara&theme=gruvbox&no-frame=true&no-bg=false&margin-w=10)
+
 <!--START_SECTION:waka-->
 
 ---
@@ -72,9 +74,17 @@
 <a href="https://www.instagram.com/chamath_frenzzy/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamath_frenzzy" height="30" width="40" />
   </a>
-   <a href="https://www.linkedin.com/in/chamath-jayasekara-a5241a324/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Chamath Jayasekara" height="30" width="40" />
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/chamath-jayasekara-a5241a324/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="Chamath LinkedIn" height="30" width="40" />
   </a>
+
+  <!-- Email -->
+  <a href="mailto:chamathgayanasara1234@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Chamath Email" height="30" width="40" />
+  </a>
+
 </p>
 
 ---
