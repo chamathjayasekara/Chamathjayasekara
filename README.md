@@ -92,5 +92,9 @@
 ```text
 Python   3 hrs 58 mins    █████████████████████████   100.00 %
 ```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 <!--END_SECTION:waka-->
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Chamathjayasekara.Chamathjayasekara)
